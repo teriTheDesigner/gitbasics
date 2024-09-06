@@ -1,5 +1,5 @@
 function start() {
-  alert("Hello Kamarini <3");
+  alert("Hi terezkaaaaaaaaa! How are you today?");
 }
 
 start();
